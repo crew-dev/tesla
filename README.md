@@ -1,2 +1,2 @@
-# tesla
+# Tesla
 Tesla | Model S
